@@ -85,7 +85,7 @@ Hi, my name is Rupa Reddymasu,a recent Computer Science graduate with a B.Tech d
 
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpandita2000&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rupareddymasu&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupareddymasu)](https://github.com/anuraghazra/github-readme-stats)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=rupareddymasu&theme=github_dark" />
 <!--[LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=harshpandita&theme=dark&card_width=600)](https://github.com/KnlnKS/leetcode-stats).
