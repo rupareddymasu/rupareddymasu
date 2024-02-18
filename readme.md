@@ -37,7 +37,7 @@ Hi, my name is Rupa Reddymasu,a recent Computer Science graduate with a B.Tech d
 <img src="https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
-<a href="https://drive.google.com/file/d/1nwdG8i8u-WN3Lk06Wy6Ju9JMKDDNxkbu/view?usp=sharing">
+<a href="https://docs.google.com/document/d/1VgThUilhn2A8HKRBY8SZt6EBRvxSpOGN/edit?usp=sharing&ouid=117021848920332013564&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/📝resume-teal?style=for-the-badge"  width="150" height="35">
 </a>
 
@@ -46,8 +46,8 @@ Hi, my name is Rupa Reddymasu,a recent Computer Science graduate with a B.Tech d
 
 
 
-<a href="https://leetcode.com/harshpandita/">
-<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="37"/>
+<!--<a href="https://leetcode.com/harshpandita/">
+<img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white%22%20alt=%22In%20Badge" alt="LeetCode Badge" width="150" height="37"/>-->
 
 
 
