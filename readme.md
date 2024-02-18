@@ -3,7 +3,7 @@
 <img src=" https://github.com/harshpandita2000/harshpandita2000/blob/main/assets/horizontal-divider-gradient.gif">
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdyYXd0dzg1bXA5ZnpqNnRheG1iNHpiOHg3bGx5eXE0M3Nva3M4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" height="350" width="550">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdyYXd0dzg1bXA5ZnpqNnRheG1iNHpiOHg3bGx5eXE0M3Nva3M4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" height="350" width="450">
 </a>
 </picture>
 
